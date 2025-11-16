@@ -7,6 +7,7 @@ Toujours curieuse et motivée, je suis prête à relever des défis techniques e
 ---
 
 
+
 ### 🔹 Mes projets
 
 | Nom du projet | Description | Lien |
@@ -14,6 +15,6 @@ Toujours curieuse et motivée, je suis prête à relever des défis techniques e
 | MY PARFUMES | Site web de parfumerie permettant la gestion des produits et offrant une expérience utilisateur fluide. | [Voir le projet](https://github.com/mariembenachour/my-perfumes) |
 | Application de Gestion de Projets | Application pour organiser et suivre les projets, les tâches et les équipes. | [Voir le projet](https://github.com/mariembenachour/gestion-projets-app) |
 | Plateforme d’Administration de Bases de Données | Application pour administrer et gérer différentes bases de données avec séparation des rôles administrateur et employé. | [Voir le projet](https://github.com/mariembenachour/Plateforme-d-Administration-de-Bases-de-Donnees) |
+| Marysia Hotel | Site de réservation d’hôtel avec gestion des chambres et des réservations, développé avec Angular et Spring Boot. | [Voir le projet](https://github.com/mariembenachour/Projet-Marisya) |
 
 ---
-
