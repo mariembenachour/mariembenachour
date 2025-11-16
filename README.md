@@ -1,16 +1,20 @@
-## Hi there 👋
+## Bonjour, je suis Mariem Ben Achour 👋
 
-<!--
-**mariembenachour/mariembenachour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en 3ᵉ année en Développement des Systèmes d'Information à l'ISET Charguia, je suis passionnée par la création de solutions numériques innovantes et la maîtrise des technologies modernes.  
+Je cherche à appliquer mes compétences en développement web et mobile, en gestion de bases de données et en programmation pour concevoir des projets professionnels à fort impact.  
+Toujours curieuse et motivée, je suis prête à relever des défis techniques et à contribuer activement à des équipes de développement ambitieuses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔹 Mes projets
+
+| Nom du projet | Description | Lien |
+|---------------|-------------|------|
+| MY PARFUMES | Site web de parfumerie permettant la gestion des produits et offrant une expérience utilisateur fluide. | [Voir le projet](https://github.com/mariembenachour/my-parfumes) |
+| Application de Gestion de Projets | Application pour organiser et suivre les projets, les tâches et les équipes. | [Voir le projet](https://github.com/mariembenachour/gestion-projets-app) |
+| Plateforme d’Administration de Bases de Données | Application pour administrer et gérer différentes bases de données avec séparation des rôles administrateur et employé. | [Voir le projet](https://github.com/mariembenachour/Plateforme-d-Administration-de-Bases-de-Donnees) |
+
+---
+
