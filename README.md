@@ -5,14 +5,12 @@ J’aime transformer une idée en un vrai projet fonctionnel : site web, applica
 Curieuse, motivée et toujours à la recherche de nouveaux défis, je m’investis dans chaque projet avec l’envie d’apprendre, d’innover et de créer des solutions qui ont un impact réel. 🚀
 
 
-🔹 Mes projets
-Nom du projet	Description	Lien
-MY PARFUMES	Site e-commerce développé avec Angular et JSON pour la gestion des produits.	👉 Voir le projet
+## 🔹 Mes projets
 
-Application de Gestion de Projets	Application pour organiser et suivre les projets, les tâches et les équipes, réalisée avec Spring Boot API et Oracle.	👉 Voir le projet
-
-Plateforme d’Administration de Bases de Données	Plateforme d’administration développée en Python Django, avec séparation des rôles administrateur/employé.	👉 Voir le projet
-
-Marysia Hotel	Application web de gestion des réservations et des chambres, développée avec Angular, Spring Boot et Oracle.	👉 Voir le projet
-
-Glow Up	Application web pour gérer la routine beauté et bien-être, créée avec Flutter, Spring Boot et MySQL.	👉 Voir le projet
+| Nom du projet | Description | Lien |
+|---------------|-------------|------|
+| MY PARFUMES | Site e-commerce développé avec Angular et JSON pour la gestion des produits. | 👉 [Voir le projet](https://github.com/mariembenachour/my-perfumes) |
+| Application de Gestion de Projets | Application pour organiser et suivre les projets, les tâches et les équipes, réalisée avec Spring Boot API et Oracle. | 👉 [Voir le projet](https://github.com/mariembenachour/gestion-projets-app) |
+| Plateforme d’Administration de Bases de Données | Plateforme d’administration développée en Python Django, avec séparation des rôles administrateur/employé. | 👉 [Voir le projet](https://github.com/mariembenachour/Plateforme-d-Administration-de-Bases-de-Donnees) |
+| Marysia Hotel | Application web de gestion des réservations et des chambres, développée avec Angular, Spring Boot et Oracle. | 👉 [Voir le projet](https://github.com/mariembenachour/Projet-Marisya) |
+| Glow Up | Application web pour gérer la routine beauté et bien-être, créée avec Flutter, Spring Boot et MySQL. | 👉 [Voir le projet](https://github.com/mariembenachour/Glow-Up.git) |
