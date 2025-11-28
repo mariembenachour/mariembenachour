@@ -1,20 +1,18 @@
 ## Bonjour, je suis Mariem Ben Achour 👋
+Étudiante en Développement des Systèmes d’Information à l’ISET Charguia, je suis passionnée par la création d’applications modernes et utiles.
+J’aime transformer une idée en un vrai projet fonctionnel : site web, application mobile, API backend ou plateforme complète.
 
-Étudiante en 3ᵉ année en Développement des Systèmes d'Information à l'ISET Charguia, je suis passionnée par la création de solutions numériques innovantes et la maîtrise des technologies modernes.  
-Je cherche à appliquer mes compétences en développement web et mobile, en gestion de bases de données et en programmation pour concevoir des projets professionnels à fort impact.  
-Toujours curieuse et motivée, je suis prête à relever des défis techniques et à contribuer activement à des équipes de développement ambitieuses.
-
----
+Curieuse, motivée et toujours à la recherche de nouveaux défis, je m’investis dans chaque projet avec l’envie d’apprendre, d’innover et de créer des solutions qui ont un impact réel. 🚀
 
 
+🔹 Mes projets
+Nom du projet	Description	Lien
+MY PARFUMES	Site e-commerce développé avec Angular et JSON pour la gestion des produits.	👉 Voir le projet
 
-### 🔹 Mes projets
+Application de Gestion de Projets	Application pour organiser et suivre les projets, les tâches et les équipes, réalisée avec Spring Boot API et Oracle.	👉 Voir le projet
 
-| Nom du projet | Description | Lien |
-|---------------|-------------|------|
-| MY PARFUMES | Site web de parfumerie permettant la gestion des produits et offrant une expérience utilisateur fluide. | [Voir le projet](https://github.com/mariembenachour/my-perfumes) |
-| Application de Gestion de Projets | Application pour organiser et suivre les projets, les tâches et les équipes. | [Voir le projet](https://github.com/mariembenachour/gestion-projets-app) |
-| Plateforme d’Administration de Bases de Données | Application pour administrer et gérer différentes bases de données avec séparation des rôles administrateur et employé. | [Voir le projet](https://github.com/mariembenachour/Plateforme-d-Administration-de-Bases-de-Donnees) |
-| Marysia Hotel | Site de réservation d’hôtel avec gestion des chambres et des réservations, développé avec Angular et Spring Boot. | [Voir le projet](https://github.com/mariembenachour/Projet-Marisya) |
+Plateforme d’Administration de Bases de Données	Plateforme d’administration développée en Python Django, avec séparation des rôles administrateur/employé.	👉 Voir le projet
 
----
+Marysia Hotel	Application web de gestion des réservations et des chambres, développée avec Angular, Spring Boot et Oracle.	👉 Voir le projet
+
+Glow Up	Application web pour gérer la routine beauté et bien-être, créée avec Flutter, Spring Boot et MySQL.	👉 Voir le projet
